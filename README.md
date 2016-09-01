@@ -1,4 +1,4 @@
 # IUPUI-REU-2016-Website
 Indiana University–Purdue University Indianapolis 2016 Research Experience for Undergraduate's Homepage.
 
-Can be seen [here!](http://www.engr.iupui.edu/departments/cigt/reu/workshop/index.htm).
+Can be seen [here](http://www.engr.iupui.edu/departments/cigt/reu/workshop/index.htm).
