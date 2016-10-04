@@ -4,10 +4,9 @@ Can be seen [here](http://www.engr.iupui.edu/departments/cigt/reu/workshop/index
 
 ~/index.htm index for homepage
 
-~/publications.htm
-~/callforpapers.htm    Individual sections from index ported into seperate pages (requirement)
-~/venue.htm
-~/committee.html        
+~/<publications.htm>,<callforpapers.htm>,<callforpapers.htm>,<committee.html>  
+Individual sections from index ported into seperate pages (requirement)
+      
 
 ~/scripts/management.js mainly utilized for content switching and header bar placement fixation. 
 
